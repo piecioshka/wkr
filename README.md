@@ -2,6 +2,6 @@
 
 Collector of WKR* projects.
 
-## Demo 🎉
+## Preview 🎉
 
 <http://piecioshka.github.io/wkr/>
